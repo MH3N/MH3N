@@ -1,6 +1,9 @@
 ### 👨‍💻 Hi, I'm Mohsen!
 
-Front-End Developer with hands-on experience in building responsive and accessible web interfaces using HTML, CSS, and JavaScript. Skilled in translating UI/UX designs into interactive user experiences. Strong understanding of modern front-end frameworks and performance optimization techniques. Committed to writing clean, maintainable code and continuously improving user experience.
+Front-End Developer | HTML, CSS, JS, React, Next.js
+Building responsive, accessible web apps with clean code and great UX.
+
+
 
 
 
