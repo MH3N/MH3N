@@ -1,7 +1,7 @@
 ### 👨‍💻 Hi, I'm Mohsen!
 
 Front-End Developer | HTML, CSS, JS, React, Next.js
-Building responsive, accessible web apps with clean code and great UX.
+Building responsive, accessible web apps with clean code and great UX..
 
 
 
