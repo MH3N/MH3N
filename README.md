@@ -25,6 +25,8 @@
   <img width="12" />
      <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="python logo"  />
   <img width="12" />
+    <img src="https://skillicons.dev/icons?i=htmx" height="60" alt="python logo"  />
+  <img width="12" />
 </div>
 
 ###
